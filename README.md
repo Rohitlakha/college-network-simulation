@@ -79,7 +79,7 @@ This project lays the groundwork for a **scalable, secure, and modern** campus-w
 
 **Rohit Lakha**  
 MCA Candidate | Networking & Systems Enthusiast  
-[GitHub Profile](https://github.com/Rohitlakha)
+[GitHub Profile](https://github.com/Rohitlakha) [Linkedin Profile](https://www.linkedin.com/in/rohit-lakha/)
 
 ---
 
