@@ -71,7 +71,7 @@ This project lays the groundwork for a **scalable, secure, and modern** campus-w
 
 ## 📸 Preview
 
-![Network Topology](Screenshot%202025-06-27%20185223.png)
+![Network Topology](https://github.com/Rohitlakha/college-network-simulation/blob/d6ac3c84e8a75cabf8c4fc31d2ba1d5cc0b521a3/images/Screenshot.png)
 
 ---
 
