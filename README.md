@@ -1,52 +1,54 @@
 # 🎓 College Network Scenario (CNS) – Cisco Packet Tracer Project
 
+[![GitHub stars](https://img.shields.io/github/stars/Rohitlakha/college-network-simulation?style=flat&color=yellow)](https://github.com/Rohitlakha/college-network-simulation/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Rohitlakha/college-network-simulation?style=flat&color=blue)](https://github.com/Rohitlakha/college-network-simulation/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Rohitlakha/college-network-simulation?color=red)](https://github.com/Rohitlakha/college-network-simulation/issues)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
 > **Excited to share my latest computer networks project!**
 
-I'm thrilled to present a **comprehensive LAN (Local Area Network)** setup for a college campus using **Cisco Packet Tracer**. This project simulates seamless interdepartmental connectivity, secured communication, and dynamic routing using industry-standard protocols.
+A **comprehensive LAN (Local Area Network)** setup for a college campus using **Cisco Packet Tracer**, simulating seamless **interdepartmental connectivity**, **secured communication**, and **dynamic routing** using industry-standard protocols.
 
 ---
 
 ## 📌 Project Highlights
 
 ### 🧠 Network Design
-
-- Developed a well-structured and logical **network topology** connecting:
-  - Computer Department
-  - IT Lab
-  - Internet Lab
-  - Server Room
-  - Principal Room
-  - Miscellaneous User Groups
+- Developed a structured **network topology** connecting:
+  - Computer Department  
+  - IT Lab  
+  - Internet Lab  
+  - Server Room  
+  - Principal Room  
+  - Miscellaneous User Groups  
 
 ### 🧱 Components Used
-
-- **Routers**, **Switches**, **PCs**, **Laptops**, and **Printers**
-- **Servers** (DNS, FTP, HTTP, SSH)
-- Used **Cisco Packet Tracer** to simulate the entire setup
+- **Routers**, **Switches**, **PCs**, **Laptops**, and **Printers**  
+- **Servers** (DNS, FTP, HTTP, SSH)  
+- Entire setup simulated on **Cisco Packet Tracer**  
 
 ### 📡 Protocols Implemented
-
-- **RIP (Routing Information Protocol)** – For dynamic routing between routers
-- **SSH (Secure Shell)** – For secure remote management of network devices
+- **RIP (Routing Information Protocol)** → Dynamic routing between routers  
+- **SSH (Secure Shell)** → Secure remote management of network devices  
 
 ---
 
 ## 🎯 Objectives Achieved
-
-- ✅ **Modernized Infrastructure**: Upgraded traditional LAN to a more scalable, reliable model
-- ✅ **Improved Performance**: Achieved faster and more consistent data transmission
-- ✅ **Scalable Design**: Supports large volume of devices and departmental expansion
-- ✅ **Enhanced Security**: Integrated SSH for secure remote device access
+- ✅ **Modernized Infrastructure** → Upgraded traditional LAN to a scalable, reliable model  
+- ✅ **Improved Performance** → Faster & more consistent data transmission  
+- ✅ **Scalable Design** → Supports large volumes of devices & departmental expansion  
+- ✅ **Enhanced Security** → Secure device access with SSH  
 
 ---
 
 ## 💻 How to Run
-
-1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
-2. Clone this repo or download the ZIP.
-3. Open the file `College Network.pkt` in Cisco Packet Tracer.
-4. Run simulations and inspect communication between devices using the Simulation Panel.
-
+1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).  
+2. Clone this repo or download the ZIP:
+   ```bash
+   git clone https://github.com/Rohitlakha/college-network-simulation.git
+```
 ---
 
 ## 📁 Files Included
