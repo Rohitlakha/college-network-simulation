@@ -46,9 +46,10 @@ A **comprehensive LAN (Local Area Network)** setup for a college campus using **
 ## 💻 How to Run
 1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).  
 2. Clone this repo or download the ZIP:
-   ```bash
-   git clone https://github.com/Rohitlakha/college-network-simulation.git
+```bash
+git clone https://github.com/Rohitlakha/college-network-simulation.git
 ```
+
 ---
 
 ## 📁 Files Included
